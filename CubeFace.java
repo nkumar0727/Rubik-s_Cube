@@ -222,7 +222,7 @@ public class CubeFace
 	}
 
 	//checks if face has identical colors in shape of a cross
-	//EDIT: BROKEN AS FUCK
+	//EDIT: BROKEN
 	public boolean hasCross(char targetColor)
 	{
 		return sameSides() && arrayColors[0][1]==targetColor;
