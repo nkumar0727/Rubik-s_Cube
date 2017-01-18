@@ -34,7 +34,7 @@ public class CubeFace
 		mainColor = array[1][1];
 	}
 	
-	//changes one element in face
+	//changes one element in face 
 	public void setSpot(int i, int j, char input)
 	{
 		arrayColors[i][j] = input;
