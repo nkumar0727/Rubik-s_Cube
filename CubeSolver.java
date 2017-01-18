@@ -3,7 +3,7 @@ public class CubeSolver {
 
 		private RubikCube cube;
 		
-		//creates a cube solver that takes in a RubikCube
+		//creates a cube solver that takes in a RubikCube 
 		public CubeSolver(RubikCube cube)
 		{
 			this.cube = cube;
