@@ -6,7 +6,7 @@ public class rubik_test
 	public static void main(String[] args)
 	{
 		
-		//CubeFace[] faces = new CubeFace[6];
+		//CubeFace[] faces = new CubeFace[6]; 
 		//String[] faceNames = {"Front", "Back", "Left", "Right", "Top", "Bottom"};
 		//char[] colors = {'R', 'G', 'Y', 'B', 'W', 'O'};
 
