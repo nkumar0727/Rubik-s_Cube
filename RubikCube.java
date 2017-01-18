@@ -2,7 +2,7 @@
 
 public class RubikCube
 {
-	private CubeFace front, back, left, right, top, bottom;
+	private CubeFace front, back, left, right, top, bottom; 
 
 	//constructs a specific cube
 	public RubikCube(CubeFace front, CubeFace back, CubeFace left, CubeFace right, CubeFace top, CubeFace bottom)
