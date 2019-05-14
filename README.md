@@ -1,5 +1,7 @@
-# Rubik-s_Cube
+# old-rubiks-cube-solver
 Rubik's Cube solving algorithm for a legal layout
+
+UPDATE (5/14/19): This project was made when I was still learning programming. As such, it does not adhere to software development best-practices. In addition, no build system nor GUI has been used, so this is simply a program which needs to be run on the command line.
 
 Current Functionality:
 
